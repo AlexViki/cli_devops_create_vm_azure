@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Ender your DNS-name"
 read DNSNAME
 URL=`cat url`
 PASS=`cat pass`
